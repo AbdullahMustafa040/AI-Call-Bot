@@ -1,0 +1,37 @@
+QuestionID,QuestionText,QuestioninUrdu
+1,CNIC Front Picture,سی این آئی سی فرنٹ پکچر
+2,CNIC Back Picture,سی این آئی سی بیک پکچر
+3,Selfie with CNIC,سی این آئی سی کے ساتھ سیلفی
+4,Full Name,آپ کا پورا نام
+5,CNIC Number,سی این آئی سی نمبر
+6,CNIC Issue Date,سی این آئی سی - تاريخ اجراء
+7,CNIC Expiry Date,سی این آئی سی- تاريخ تنسیخ
+8,Date of Birth,تاريخ پيدائش
+9,City of Birth,شہر پیدائش
+10,Current Address,حالیہ پتہ
+11,Current City,موجودہ شہر
+12,Gender,جنس
+26,Father's name,آپ کے والد کا نام
+13,Marital Status,ازدواجی حیثیت
+14,What is the name of your farm?,آپ کے فارم کا کیا نام ہے؟
+15,What is the address of your farm?,آپ کے فارم کا پتہ کیا ہے؟
+30,Farmer Picture,کسان کی تصویر
+29,Farm Size (Acres),فارم کا سائز (ایکڑ)
+31,Owned/Leased,ملکیت یا لیز پر
+16,Number of Owners,مالکان کی تعداد
+21,Number of Employees,ملازمین کی تعداد
+39,No of beneficiaries of the farm,فارم کے مستفید ہونے والوں کی تعداد
+17,How many years have you spent farming?,آپ نے کھیتی باڑی میں کتنے سال گزارے ہیں؟
+27,Crop Type,فصل کی قسم
+32,Semi Annual Output Value (Rs),نیم سالانہ آؤٹ پٹ ویلیو
+33,Owns tractor (Y/N),ٹریکٹر کا مالک ہے (Y/N)
+34,Owns machinery (Y/N),مشینری کا مالک ہے (Y/N)
+35,Irrigation Mechanism (Canal/Electric Pump),آبپاشی کا طریقہ کار (نہر/الیکٹرک پمپ)
+36,Building structure at farm (Y/N),فارم میں عمارت کا ڈھانچہ (Y/N)
+37,Farming Method (Conventional/Modern),کاشتکاری کا طریقہ (روایتی/جدید)
+38,Current loans (Y/N),موجودہ قرضے (Y/N)
+28,Jiye Kisan Centres,جیئے کسان مراکز
+41,Farm Produce Quantity (In KG),فارم کی پیداوار کی مقدار (کلوگرام میں)
+42,Months active on Jiye's platform,Jiye کے پلیٹ فارم پر مہینوں فعال
+25,Do you own a motor vehicle/bike,کیا آپ موٹر گاڑی/ موٹر سائیکل کے مالک ہیں
+47,Farm picture,فارم کی تصویر

@@ -1,0 +1,37 @@
+Question ID,Question Text,Question in Urdu,Answer Type,List of Possible Answers (Comma separated),API Endpoint,API Answer Type
+1,CNIC Front Picture,سی این آئی سی فرنٹ پکچر,PICTURE,,2,Multipart file
+2,CNIC Back Picture,سی این آئی سی بیک پکچر,PICTURE,,2,Multipart file
+3,Selfie with CNIC,سی این آئی سی کے ساتھ سیلفی,PICTURE,,2,Multipart file
+4,Full Name,آپ کا پورا نام,STRING,,1,String
+5,CNIC Number,سی این آئی سی نمبر,NUMBER,,1,String
+6,CNIC Issue Date,سی این آئی سی - تاريخ اجراء,DATE,,1,String
+7,CNIC Expiry Date,سی این آئی سی- تاريخ تنسیخ,DATE,,1,String
+8,Date of Birth,تاريخ پيدائش,DATE,,1,String
+9,City of Birth,شہر پیدائش,STRING,,1,String
+10,Current Address,حالیہ پتہ,ALPHANUM,,1,String
+11,Current City,موجودہ شہر,ENUM,"Karachi,Lahore,Faisalabad,Rawalpindi,Gujranwala,Peshawar,Multan,Hyderabad,Islamabad,Quetta,Bahawalpur,Sargodha,Sialkot,Sukkur,Larkana,Rahim Yar Khan,Sheikhupura,Jhang,Talagang,Dera Ghazi Khan,Gujrat,Sahiwal,Wah Cantonment,Mardan,Kasur,Okara,Mingora,Nawabshah,Chiniot,Kotri,Kāmoke,Hafizabad,Sadiqabad,Mirpur Khas,Burewala,Kohat,Khanewal,Dera Ismail Khan,Turbat,Muzaffargarh,Abbottabad,Mandi Bahauddin,Shikarpur,Jacobabad,Jhelum,Khanpur,Khairpur,Khuzdar,Pakpattan,Hub,Daska,Gojra,Dadu,Muridke,Bahawalnagar,Samundri,Tando Allahyar,Tando Adam,Jaranwala,Chishtian,Muzaffarabad,Attock,Vehari,Kot Abdul Malik,Ferozwala,Chakwal,Gujranwala Cantonment,Kamalia,Umerkot,Ahmedpur East,Kot Addu,Wazirabad,Mansehra,Layyah,Mirpur,Swabi,Chaman,Taxila,Nowshera,Khushab,Shahdadkot,Mianwali,Kabal,Lodhran,Hasilpur,Charsadda,Bhakkar,Badin,Arif Wala,Ghotki,Sambrial,Jatoi,Haroonabad,Daharki,Narowal,Tando Muhammad Khan,Kamber Ali Khan,Mirpur Mathelo,Kandhkot,Bhalwal",1,String
+12,Gender,جنس,ENUM,"Male,Female,Transgender",1,String
+26,Father's name,آپ کے والد کا نام,STRING,,1,String
+13,Marital Status,ازدواجی حیثیت,ENUM,"Single,Married,Divorced,Widowed",1,String
+14,What is the name of your farm?,آپ کے فارم کا کیا نام ہے؟,ALPHANUM,,1,String
+15,What is the address of your farm?,آپ کے فارم کا پتہ کیا ہے؟,ALPHANUM,,1,String
+30,Farmer Picture,کسان کی تصویر,PICTURE,,2,Multipart file
+29,Farm Size (Acres),فارم کا سائز (ایکڑ),NUMBER,,1,String
+31,Owned/Leased,ملکیت یا لیز پر,ENUM,"Owned,Leased",1,String
+16,Number of Owners,مالکان کی تعداد,ENUM,"1,2-3,More than 3",1,String
+21,Number of Employees,ملازمین کی تعداد,ENUM,"0,1-3,4-6,More than 6",1,String
+39,No of beneficiaries of the farm,فارم کے مستفید ہونے والوں کی تعداد,NUMBER,,1,String
+17,How many years have you spent farming?,آپ نے کھیتی باڑی میں کتنے سال گزارے ہیں؟,ENUM,"0-1,1-3,3-5,More than 5",1,String
+27,Crop Type,فصل کی قسم,ENUM,"Wheat,Paddy (Rice),Maize (Spring crop),Maize (Autumn crop),Sugarcane,Potato,Citrus (Mandarin,Lime and Orange varities),Mango",1,String
+32,Semi Annual Output Value (Rs),نیم سالانہ آؤٹ پٹ ویلیو,NUMBER,,1,String
+33,Owns tractor (Y/N),ٹریکٹر کا مالک ہے (Y/N),BOOLEAN,,1,String
+34,Owns machinery (Y/N),مشینری کا مالک ہے (Y/N),BOOLEAN,,1,String
+35,Irrigation Mechanism (Canal/Electric Pump),آبپاشی کا طریقہ کار (نہر/الیکٹرک پمپ),ENUM,"Canal,Electric Pump",1,String
+36,Building structure at farm (Y/N),فارم میں عمارت کا ڈھانچہ (Y/N),BOOLEAN,,1,String
+37,Farming Method (Conventional/Modern),کاشتکاری کا طریقہ (روایتی/جدید),ENUM,"Conventional,Modern",1,String
+38,Current loans (Y/N),موجودہ قرضے (Y/N),BOOLEAN,,1,String
+28,Jiye Kisan Centres,جیئے کسان مراکز,ENUM,"Syedwala,Depalpur,Multan,Rahim Yar Khan,Sargodha,Burewala",1,String
+41,Farm Produce Quantity (In KG),فارم کی پیداوار کی مقدار (کلوگرام میں),NUMBER,,1,String
+42,Months active on Jiye's platform,Jiye کے پلیٹ فارم پر مہینوں فعال,NUMBER,,1,String
+25,Do you own a motor vehicle/bike,کیا آپ موٹر گاڑی/ موٹر سائیکل کے مالک ہیں,BOOLEAN,,1,String
+47,Farm picture,فارم کی تصویر,PICTURE_LOCATION,,2,Multipart file
